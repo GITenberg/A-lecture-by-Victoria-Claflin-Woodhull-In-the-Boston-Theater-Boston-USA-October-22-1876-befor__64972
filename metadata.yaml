@@ -1,11 +1,16 @@
 _repo: A-lecture-by-Victoria-Claflin-Woodhull-In-the-Boston-Theater-Boston-USA-October-22-1876-befor__64972
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64972-h/images/cover.jpg
 creator:
   author:
     agent_name: Woodhull, Victoria Claflin
     gutenberg_agent_id: '53120'
     url: http://www.gutenberg.org/2009/agents/53120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64972#A-lecture-by-Victoria-Claflin-Woodhull-In-the-Boston-Theater-Boston-USA-October-22-1876-befor_
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:
